@@ -8,6 +8,18 @@
 
 ---
 
+# 🚀 My Data Journey  
+
+🌱 I recently started my journey into the world of data by completing a **Data Bootcamp** where I gained hands-on experience with:  
+
+ 🐍 **Python** (data cleaning, analysis, visualization)  
+ ☁️ **Azure** (cloud-based data solutions)  
+ 📊 **Excel & Power BI** (dashboards, business reporting)  
+ 📈 **Tableau** (interactive data visualizations)  
+ 🧑‍💻 Multiple **real-world projects** applying these tools  
+
+---
+
 # ⚡ Tech I Use  
 
 <p align="center">  
@@ -15,6 +27,8 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>  
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>  
 </p>  
 
 ---
